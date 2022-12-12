@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">finalproject_ualr</string>
+
+    <string name="toolbarTitle_home">Welcome!</string>
+    <string name="toolbarTitle_order">Your Order</string>
+    <string name="toolbarTitle_checkout">Check-Out</string>
+
+    <string name="buttonText_home">Home</string>
+    <string name="buttonText_order">Order</string>
+    <string name="buttonText_back">Back</string>
+    <string name="buttonText_addItem">Add Item</string>
+    <string name="buttonText_checkout">Proceed to Checkout</string>
+    <string name="buttonText_studentOrder">Order as a Student</string>
+    <string name="buttonText_guestOrder">Order as a Guest</string>
+    <string name="buttonText_submit">Submit</string>
+
+    <string name="restaurantTitle_wowCafe">W.O.W Cafe</string>
+    <string name="restaurantTitle_trojanCafe">Trojan Cafe</string>
+    <string name="restaurantTitle_tresHabaneros">Tres Habaneros</string>
+    <string name="restaurantTitle_starbucks">Starbucks</string>
+    <string name="restaurantTitle_hisshoSushi">Hissho Sushi</string>
+    <string name="restaurantTitle_subconnection">SubConnection</string>
+
+    <string name="foodDetailScreen_text1">Additional Details:</string>
+
+    <string name="orderScreen_text1">Selected Items:</string>
+    <string name="orderScreen_text2">(Tap Item Name to Remove)</string>
+    <string name="orderScreen_text3">Totals:</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
